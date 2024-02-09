@@ -2,7 +2,7 @@
 A Fish function for aws-vault that opens a temporary Chrome profile when logging in to the AWS Console 
 
 ## Installation
-`fisher add adamsimp/fish-aws-vault-chrome`
+`fisher install arudat/fish-aws-vault-chrome-session`
 
 ## Usage
 `awschrome profile-name`
